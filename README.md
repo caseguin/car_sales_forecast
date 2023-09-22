@@ -17,9 +17,9 @@ Use this model to see the impact of a raise of the EV price on the sales.
 - Guide de l'auto (price)
 ***
 <u>Steps</u>
-1. Determine the EV sales
-2. Web scrapping car prices
-3. Merge all data
-4. Build a model 
+1. Determine the EV sales (car_sales.ipynb)
+2. Web scrapping car prices (car_prices_scrapping.ipynb)
+3. Merge all data (merge.ipynb)
+4. Build a model (model.ipynb)
 5. Predict EV sales with the model and compare to the real data
 6. Generate an alternative scenario (RV) with higher prices of EV
