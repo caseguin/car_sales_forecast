@@ -13,7 +13,8 @@ Use this model to see the impact of a raise of the EV price on the sales.
 ***
 <u>Data : </u>
 - SAAQ immatriculation (sales)
-- ISQ (demographic carateristics) 
+- ISQ (demographic carateristics)
+    - https://statistique.quebec.ca/fr/produit/tableau/estimation-de-la-population-du-quebec
 - Guide de l'auto (price)
 ***
 <u>Steps</u>
