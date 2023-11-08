@@ -16,6 +16,12 @@ Use this model to analyse the impact of a raise of the EV price on the sales.
 - ISQ (demographic carateristics)
     - https://statistique.quebec.ca/fr/produit/tableau/estimation-de-la-population-du-quebec
 - Guide de l'auto (price)
+
+- Prix des bateries :
+- Prix des minéraux pour les bateries :
+- Évolution du prix des véhicules : https://vms.taps.anl.gov/research-highlights/u-s-doe-vto-hfto-r-d-benefits/
+
+
 ***
 <u>Steps</u>
 1. Determine the EV sales (car_sales.ipynb)
